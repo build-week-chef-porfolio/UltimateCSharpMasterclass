@@ -47,3 +47,7 @@ bool EqualsCaseInsensitive(string left, string right)
 {
     return left.ToUpper() == right.ToUpper();
 }
+
+
+
+// hahaa
